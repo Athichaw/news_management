@@ -11,7 +11,7 @@ Running Steps:<br>
 ในที่นี้จะได้ http://127.0.0.1:8000/news/<br>
 <br>
 Designing Steps:<br>
-1. ทำการออกแบบ database โดยในที่นี้ออกแบบไว้ 2 version เป็นแบบ simple 1 table (news_db_v1.jpg)และหลาย table (news_db.drawio) ซึ่งต้องไป join ใช้อีกที<br>
+1. ทำการออกแบบ database โดยในที่นี้ออกแบบไว้ 2 version เป็นแบบ simple 1 table (news_db_v1.jpg)และหลาย table (news_db.drawio หรือ new_db_v2.jpg) ซึ่งต้องไป join ใช้อีกที<br>
 2. สำหรับการทำ Create Read Update Delete ด้วย Laravel<br>
 อธิบายในมุมของ MVC คือ มีส่วนเก็บข้อมูล ส่วนแสดงผลและการทำงาน และส่วนควบคุม<br>
 โดยหลักๆที่ใช้ในโปรเจคนี้ หลังออกแบบ database และ create data table และทำการ migrate แล้ว <br>
